@@ -19,25 +19,25 @@ minimum le texte centré
 
 p {color: blue; font-size: 12px}
 
-.h1
+h1
 
-.h2
+h2
 
-.page {
+page {
 width: max-content;
 font-size: 14px;
 background-color: grey
 }
 
-.PresTableau {
+PresTableau {
 color: pink;
 font-size: 16px;
 text-align: center
 }
 
-.p fin {
+p fin {
 width: min-content	
 	
 }
 
-.aboutme
+aboutme
