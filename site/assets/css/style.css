@@ -1,0 +1,43 @@
+• h1, h2 : augmentez la taille de police de manière relative
+
+• Créer des divisions (principalement <div>):
+
+
+• centrez la division et lui donner une largeur inférieure à 100% ("bande centrale").
+
+• donnez une couleur d’arrière plan (différente de html), une bordure "pleine" de
+largeur et couleur au choix.
+
+• une <div> avec class="entete" où vous mettrez vos noms, niveau d’étude et les
+photos de profil et le logo.
+
+• centrez le contenu.
+
+• mettre le lien vers Sorbonne Nouvelle dans un élément <footer> avec au
+minimum le texte centré
+
+
+p {color: blue; font-size: 12px}
+
+.h1
+
+.h2
+
+.page {
+width: max-content;
+font-size: 14px;
+background-color: grey
+}
+
+.PresTableau {
+color: pink;
+font-size: 16px;
+text-align: center
+}
+
+.p fin {
+width: min-content	
+	
+}
+
+.aboutme
