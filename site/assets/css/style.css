@@ -1,4 +1,6 @@
-p {color: blue; font-size: 12px}
+p {
+	color: blue; font-size: 12px
+}
 
 html {
 	background-color: white;
